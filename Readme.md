@@ -1,5 +1,5 @@
 # GA Card Recognition
-This project implements a card recognition system using genetic algorithms 
+This project implements a card recognition system using algorithms 
 and image processing techniques. The system processes images of playing cards 
 to identify their values and suits.
 
