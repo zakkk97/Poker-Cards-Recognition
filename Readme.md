@@ -13,4 +13,3 @@ pip install -r requirements.txt
 ## License
 Giuseppe Adduce
 
-<img width="304" alt="Screenshot 2024-11-19 at 13 37 25" src="https://github.com/user-attachments/assets/350d6924-36c3-4d33-ae66-1a16cad56711">
